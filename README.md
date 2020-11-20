@@ -10,6 +10,7 @@
 ## Paso 3) instalar nodejs desde el repositorio , en este caso instalamos la versión 12
 	-> cd ~
 	-> curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
+	-> bash nodesource_setup.sh
 ## Paso 4) Ejecutar el comando para su previa instalación 
 	-> sudo apt install nodejs
 ## Paso 5) Instalar el paquete adicional , algunas aplicaciones node necesitan compilar
