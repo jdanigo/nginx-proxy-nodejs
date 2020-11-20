@@ -27,7 +27,7 @@
 ## Paso 10) Crear la configuración del servidor proxy 
     -> sudo nano /etc/nginx/sites-available/api.nombredemidominio.com
  
-[example.conf](docs/CONTRIBUTING.md)
+[example.conf](/example.conf)
 
 ## Paso 11) Crear enlace simbólico  
     -> sudo ln -s /etc/nginx/sites-available/api.nombredemidominio.com /etc/nginx/sites-enabled/api.nombredemidominio.com
